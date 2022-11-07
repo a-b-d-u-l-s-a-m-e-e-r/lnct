@@ -1,0 +1,327 @@
+@media(max-width:500px) {
+
+    #lndpge h1 {
+        font-size: 7vw;
+        left: 45vw;
+        top: 45vh;
+    }
+
+    #lndpge h2 {
+        font-size: 3vw;
+        text-align: center;
+        left: 42vw;
+        top: 48vh;
+    }
+
+    #lndpge #line {
+        top: 47vh;
+        left: 49vw;
+    }
+
+    #top-fix {
+        height: 15vh;
+    }
+
+    #top-fix #logo {
+        font-size: 4vw;
+        left: 5vw;
+    }
+
+    #top-fix #logo #l img {
+        height: 6vw;
+        width: 5.5vw;
+    }
+
+    #top-fix #logo #line {
+        left: 7.6vw;
+        top: 5.5vw;
+        width: 22.8vw;
+    }
+
+    #top-fix #txt {
+        font-size: 1.2vw;
+        left: 8.5vw;
+    }
+
+    #top-fix #dep {
+        font-size: 3.5vw;
+        right: 37vw;
+    }
+
+    #top-fix #cret {
+        font-size: 3.5vw;
+        right: 15.7vw;
+    }
+
+    #top-fix #evt {
+        font-size: 3.5vw;
+        right: 3vw;
+    }
+    #top-fix .windo{
+        width: 12vw;
+        font-size: 2.5vw;
+        line-height: 3vw;
+        right: 40vw;
+        top: 6vw;
+        background-color: aliceblue;
+        display: none;
+    }
+    #top-fix .pges{
+        height: 30vh;
+        width: 45vw;
+    }
+    #top-fix .pges #im1{
+        height: 7vw;
+        width: 7vw;
+        left: 19vw;
+    }
+    #top-fix .pges .lbl{
+        font-size: 2.5vw;
+    }
+    #top-fix .pges #usr{
+        top: 10vh;
+    }
+    #top-fix .pges #ema{
+        top: 15vh;
+    }
+    #top-fix .pges #pas{
+        top: 20vh;
+    }
+    #top-fix .pges .inp{
+        height: 4vw;
+        width: 25vw;
+        left: 15vw;
+    }
+    #top-fix .pges #usri{
+        top: 10vh;
+    }
+    #top-fix .pges #emai{
+        top: 15vh;
+    }
+    #top-fix .pges #pasi{
+        top: 20vh;
+    }
+    #top-fix .pges #sub{
+        height: 4vw;
+        width: 10vw;
+        left: 17vw;
+        font-size: 2vw;
+    }
+    #top-fix .pges #im2{
+        height: 3.5vw;
+        width: 3.5vw;
+        right: 2vw;
+        top: 2vw;
+    }
+
+    #top-fix .pges1{
+        height: 30vh;
+        width: 45vw;
+    }
+    #top-fix .pges1 #im1{
+        height: 7vw;
+        width: 7vw;
+        left: 19vw;
+    }
+    #top-fix .pges1 .lbl{
+        font-size: 2.5vw;
+    }
+    #top-fix .pges1 #ema{
+        top: 12vh;
+    }
+    #top-fix .pges1 #pas{
+        top: 17vh;
+    }
+    #top-fix .pges1 .inp{
+        height: 4vw;
+        width: 25vw;
+        left: 15vw;
+    }
+    #top-fix .pges1 #emai{
+        top: 12vh;
+    }
+    #top-fix .pges1 #pasi{
+        top: 17vh;
+    }
+    #top-fix .pges1 #sub{
+        height: 4vw;
+        width: 10vw;
+        left: 17vw;
+        bottom: 3vh;
+        font-size: 2vw;
+    }
+    #top-fix .pges1 #im2{
+        height: 3.5vw;
+        width: 3.5vw;
+        right: 2vw;
+        top: 2vw;
+    }
+
+    #ln {
+        left: 72vw;
+        bottom: 2vw;
+        line-height: 5vw;
+    }
+
+    #ln h1 {
+        font-size: 6vw;
+    }
+
+    #ln h2 {
+        font-size: 2vw;
+    }
+
+    #ln #line {
+        width: 59vw;
+        right: 5vw;
+        top: 5.5vw;
+    }
+
+    #ln #line #l1 {
+        left: 48vw;
+        width: 10.5vw;
+    }
+
+    #ln #line #l2 {
+        left: 27vw;
+        width: 18.5vw;
+    }
+
+    #ln #line #l3 {
+        left: 12vw;
+        width: 12.5vw;
+    }
+
+
+    #main #m1{
+        min-height: 150vh;
+    }
+    #main #m1 #text {
+        height: 40vw;
+    }
+
+    #main #m1 #text #txt {
+        left: 10%;
+    }
+
+    #main #m1 #text #txt #t1 {
+        font-size: 10vw;
+        top: 5vw;
+    }
+
+    #main #m1 #text #txt #l1 {
+        top: 15vw;
+        width: 48.5vw;
+    }
+
+    #main #m1 #text #txt #t2 {
+        font-size: 13vw;
+        top: 10vw;
+        left: 50vw;
+    }
+
+    #main #m1 #text #txt1 {
+        left: 5%;
+    }
+
+    #main #m1 #text #txt1 #t1 {
+        font-size: 10vw;
+        top: 8vw;
+    }
+
+    #main #m1 #text #txt1 #l1 {
+        top: 18vw;
+        width: 74vw;
+    }
+
+    #main #m1 #text #txt1 #t2 {
+        font-size: 13vw;
+        top: 17vw;
+        left: 35vw;
+    }
+
+    #main #m1 #ltlg {
+        top: 90vw;
+        left: 85vw;
+        font-size: 3vw;
+        transform: rotate(90deg);
+    }
+
+    #main #m1 #icn {
+        height: 5vw;
+        width: 4vw;
+        top: 105vw;
+        left: 92vw;
+    }
+
+    #main #m1 #box {
+        height: 35vw;
+        width: 30vw;
+        top: 75vw;
+        left: 30vw;
+    }
+
+    #main #m1 #box1 {
+        height: 35vw;
+        width: 30vw;
+        top: 85vw;
+        left: 70vw;
+    }
+    #main #m1 #box2{
+        height: 35vw;
+        width: 30vw;
+        top: 125vw;
+        left: 30vw;
+    }
+    #main #vid{
+        top: 110vh;
+        height: 40vh;
+    }
+    #main #m1 #evntbd{
+        top: 100vh;
+        height: 5%;
+        width: 100vw;
+    }
+    #main #m1 .evnthdr{
+        width: 248vw;
+    }
+    #main #m1 .evnthdr .evnts{
+        font-size: 6vw;
+    }
+    #main #m1 .evnthdr .evnts #evntnam{
+        font-size: 8vw;
+    }
+
+
+    #main #m2{
+        min-height: 100vh;
+    }
+    #main #m2 #text{
+        height: 60vh;
+        width: 80vw;
+        right: 8vw;
+    }
+    #main #m2 #text h1{
+        font-size: 2.5vw;
+        top: 14vh;
+    }
+    #main #m2 #text h2{
+        font-size: 6.5vw;
+        top: 0;
+    }
+    #main #m2 #crd1{
+        top: 70vh;
+        height: 30vw;
+        width: 27vw;
+        left: 15vw;
+    }
+    #main #m2 #crd2{
+        top: 72vh;
+        height: 30vw;
+        width: 27vw;
+        left: 58vw;
+    }
+
+
+
+}
